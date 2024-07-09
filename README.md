@@ -9,7 +9,7 @@ Projects:
 🔍 Check out my repositories to see some of the projects I've worked on. From personal projects to collaborative efforts, each one showcases my commitment to clean code and innovative design.
 
 Let's Connect: 
-💬 Feel free to reach out if you'd like to collaborate or just chat about all things web development!
+💬 Feel free to reach out if you'd like to collaborate or just chat about all things web development!      
 LinkedIn: https://www.linkedin.com/in/madalina-pastiu-52a01396/
 
 <!--
