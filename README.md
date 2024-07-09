@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/MaddiePst/MaddiePst/assets/153855329/115e373f-4825-42dc-961d-528581a2d9c7)
 <h1 align="center">Hi 👋, I'm Madalina Pastiu</h1>
 <h3 align="center">I'm a dedicated web developer with a passion for front-end development. My journey in the world of web design and development began with HTML, CSS, and JavaScript, and has grown into a deep appreciation for creating seamless and engaging web applications. Whether it's building a responsive layout or adding interactive features, I aim to deliver high-quality web solutions.</h3>
-<img align= "right" alt = "Coding image" width ="450" src ="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg"
+<img align= "right" alt = "Coding image" width ="400" src ="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maddiepst&label=Profile%20views&color=0e75b6&style=flat" alt="maddiepst" /> </p>
 - 🔭 I’m currently working on **Banking App**
