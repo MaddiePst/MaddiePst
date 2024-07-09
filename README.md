@@ -1,7 +1,7 @@
 Hey there! I'm a dedicated web developer with a passion for front-end development. My journey in the world of web design and development began with HTML, CSS, and JavaScript, and has grown into a deep appreciation for creating seamless and engaging web applications. Whether it's building a responsive layout or adding interactive features, I aim to deliver high-quality web solutions.
 
 Skills:   
-HTML: Crafting semantic, accessible, and SEO-friendly markup.
+HTML: Crafting semantic, accessible, and SEO-friendly markup.                       
 CSS: Styling with precision, from flexbox to grid layouts.
 JavaScript: Adding interactivity and dynamic features to web applications.
 
