@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript,Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
 - 📫 How to reach me **mada.pastiu@gmail.com**
 
