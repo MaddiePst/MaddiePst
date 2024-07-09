@@ -2,7 +2,7 @@ Hey there! I'm a dedicated web developer with a passion for front-end developmen
 
 Skills:   
 HTML: Crafting semantic, accessible, and SEO-friendly markup.                       
-CSS: Styling with precision, from flexbox to grid layouts.
+CSS: Styling with precision, from flexbox to grid layouts.                            
 JavaScript: Adding interactivity and dynamic features to web applications.
 
 Projects: 
