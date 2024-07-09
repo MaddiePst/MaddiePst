@@ -10,6 +10,7 @@ Projects:
 
 Let's Connect: 
 💬 Feel free to reach out if you'd like to collaborate or just chat about all things web development!
+LinkedIn: https://www.linkedin.com/in/madalina-pastiu-52a01396/
 
 <!--
 **MaddiePst/MaddiePst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
