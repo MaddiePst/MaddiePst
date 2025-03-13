@@ -4,11 +4,11 @@
 <img align= "right" alt = "Coding image" width ="400" src ="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maddiepst&label=Profile%20views&color=0e75b6&style=flat" alt="maddiepst" /> </p>
-- 🔭 I’m currently working on **Banking App**
+- 🔭 I’m currently working on React Projects
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 💬 Ask me about **React, JavaScript, Java, CSS, HTML**
 
 - 📫 How to reach me **mada.pastiu@gmail.com**
 
