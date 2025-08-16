@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Madalina Pastiu</h1>
+<h1 align="center">Hi 👋, I'm Madalina </h1>
 <h3 align="center">I'm a dedicated web developer with a passion for front-end development. My journey in the world of web design and development began with HTML, CSS, and JavaScript, and has grown into a deep appreciation for creating seamless and engaging web applications. Whether it's building a responsive layout or adding interactive features, I aim to deliver high-quality web solutions.</h3>
 <img align= "right" alt = "Coding image" width ="400" src ="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg"
 
