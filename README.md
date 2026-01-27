@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maddiepst&label=Profile%20views&color=66ff00&style=plastic" alt="maddiepst" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddiepst" alt="maddiepst" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://maddiepst.github.io/](https://maddiepst.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://maddiepst.github.io/)
 
 - 📫 How to reach me **mada.pastiu@gmail.com**
 
-- 📄 Know about my experiences [https://maddiepst.github.io/Madalina%20Pastiu%20Resume%207%20-%20Copy.pdf](https://maddiepst.github.io/Madalina%20Pastiu%20Resume%207%20-%20Copy.pdf)
+- 📄 Know about my experiences [Resume](https://maddiepst.github.io/Madalina%20Pastiu%20Resume%207%20-%20Copy.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
