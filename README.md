@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mada.pastiu@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://maddiepst.github.io/Madalina%20Pastiu%20Resume%207%20-%20Copy.pdf)
+- 📄 Know about my experiences [Resume](https://maddiepst.github.io/Resume%20Soft%20Engineer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
